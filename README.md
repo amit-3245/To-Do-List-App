@@ -8,7 +8,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 - Delete tasks
 - Persistent data using LocalStorage
 
- Technologies Used
+ Technologies Used:
 - HTML
 - CSS
 - JavaScript
